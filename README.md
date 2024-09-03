@@ -1,5 +1,5 @@
 <h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
-<h3>Name: Alan Samuel Vedanayagam </h3>
+<h3>Name: Alan Samuel Vedanyagam </h3>
 <h3>Register Number: 212223040012</h3>
 <H3>Aim:</H3>
 <p> To Implement Depth First Search Traversal of a Graph using Python 3.</p>
